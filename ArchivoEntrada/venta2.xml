@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<venta>
+    <fecha_hora>30/04/2024 11:30:15</fecha_hora>
+    <cliente>
+        <nombre>Carlos Martínez</nombre>
+        <nit>13579246</nit>
+    </cliente>
+    <compras>
+        <producto>
+            <nombre_producto>Impresora Epson</nombre_producto>
+            <cantidad>1</cantidad>
+            <subtotal>150.00</subtotal>
+        </producto>
+        <producto>
+            <nombre_producto>Monitor Samsung</nombre_producto>
+            <cantidad>1</cantidad>
+            <subtotal>300.00</subtotal>
+        </producto>
+        <producto>
+            <nombre_producto>Audífonos Sony</nombre_producto>
+            <cantidad>2</cantidad>
+            <subtotal>200.00</subtotal>
+        </producto>
+    </compras>
+</venta>

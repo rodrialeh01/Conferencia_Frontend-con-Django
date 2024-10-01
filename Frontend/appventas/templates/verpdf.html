@@ -1,0 +1,10 @@
+{% extends "main.html" %}
+{% load static %}
+{% block content %}
+<div class="container px-6 py-8 mx-auto">
+    <h3 class="text-3xl font-medium text-gray-700">Ventas</h3>
+    <div class="flex items-center justify-around p-4">
+        <embed type="application/pdf" src="{% static 'files/Programa_Lab_2S2024_IPC2.pdf' %}" class="w-full" height="750">
+    </div>
+</div>
+{% endblock %}

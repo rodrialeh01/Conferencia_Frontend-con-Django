@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<venta>
+    <fecha_hora>30/10/2024 10:00:45</fecha_hora>
+    <cliente>
+        <nombre>Ana Gómez</nombre>
+        <nit>87654321</nit>
+    </cliente>
+    <compras>
+        <producto>
+            <nombre_producto>Smartphone Xiaomi</nombre_producto>
+            <cantidad>1</cantidad>
+            <subtotal>500.00</subtotal>
+        </producto>
+        <producto>
+            <nombre_producto>Teclado Microsoft</nombre_producto>
+            <cantidad>1</cantidad>
+            <subtotal>80.00</subtotal>
+        </producto>
+    </compras>
+</venta>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<venta>
+    <fecha_hora>30/02/2024 14:45:00</fecha_hora>
+    <cliente>
+        <nombre>María López</nombre>
+        <nit>98765432</nit>
+    </cliente>
+    <compras>
+        <producto>
+            <nombre_producto>Tablet Amazon Fire</nombre_producto>
+            <cantidad>1</cantidad>
+            <subtotal>100.00</subtotal>
+        </producto>
+        <producto>
+            <nombre_producto>Disco Duro Seagate</nombre_producto>
+            <cantidad>1</cantidad>
+            <subtotal>70.00</subtotal>
+        </producto>
+    </compras>
+</venta>
